@@ -1,7 +1,7 @@
 <table style="background-color: transparent; width: 100%;">
   <tr>
     <td align="center">
-      <img src="/Banner.png" alt="Mi Banner" width="500" height="250" />
+      <img src="/Banner.png" alt="Mi Banner" />
     </td>
   </tr>
   <tr>
