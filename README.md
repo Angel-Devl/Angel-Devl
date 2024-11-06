@@ -11,8 +11,8 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Angel-Devl&show_icons=true&theme=dark" width="45%" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Devl&layout=compact&theme=dark" width="45%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Angel-Devl&show_icons=true&theme=dark" width="48%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Devl&layout=compact&theme=dark" width="48%" />
     </td>
   </tr>
 </table>
